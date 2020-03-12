@@ -1,7 +1,5 @@
 
-# Module 3 Project Specifications
-
-## The Project
+# Northwind Company Database - Module 3 Project 
 
 For this project, I will be working with the Northwind database--a free, open-source dataset created by Microsoft containing data from a fictional company. The Northwind database is a fictitious companies SQL database. Here's the schema for the Northwind database:
 
